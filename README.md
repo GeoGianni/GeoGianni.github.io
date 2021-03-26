@@ -22,7 +22,7 @@
 				<!-- Intro -->
 					<section class="intro">
 						<header>
-							<h1>GeoGianni</h1>
+							<h1>GeoGianni Software</h1>
 							<p><NOBR>Dev-ops | GameDev | Web Design</NOBR></p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
