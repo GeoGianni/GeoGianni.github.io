@@ -1,0 +1,45 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?e6a7c5f2c912307edeac7d176b058a5f") format("truetype"),
+url("./flaticon.woff?e6a7c5f2c912307edeac7d176b058a5f") format("woff"),
+url("./flaticon.woff2?e6a7c5f2c912307edeac7d176b058a5f") format("woff2"),
+url("./flaticon.eot?e6a7c5f2c912307edeac7d176b058a5f#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e6a7c5f2c912307edeac7d176b058a5f#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "c": "\f101",
+    "file": "\f102",
+    "html": "\f103",
+    "java": "\f104",
+    "web-browser": "\f105",
+);
+
+.flaticon-c:before {
+    content: map-get($flaticon-map, "c");
+}
+.flaticon-file:before {
+    content: map-get($flaticon-map, "file");
+}
+.flaticon-html:before {
+    content: map-get($flaticon-map, "html");
+}
+.flaticon-java:before {
+    content: map-get($flaticon-map, "java");
+}
+.flaticon-web-browser:before {
+    content: map-get($flaticon-map, "web-browser");
+}
