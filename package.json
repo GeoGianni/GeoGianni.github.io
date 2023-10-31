@@ -1,5 +1,5 @@
 {
-  "name": "geo",
+  "name": "ryan",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "next lint"
   },
   "dependencies": {
