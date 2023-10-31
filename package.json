@@ -6,10 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build && gh-pages -d public",
+    "deploy": "gh-pages -d public",
     "lint": "next lint"
   },
+  "homepage": "https://geogianni.github.io/geogianni.github.io",
+  "src": "public",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "isotope-layout": "^3.0.6",
