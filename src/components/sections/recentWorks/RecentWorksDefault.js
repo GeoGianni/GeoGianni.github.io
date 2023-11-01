@@ -106,46 +106,7 @@ const RecentWorksDefault = () => {
                         <div className="blog-detail">Design</div>
                         <div className="blog-content">
                           <img src="images/works/work2.jpg" alt="" />
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="https://store.steampowered.com/app/1679290/Fire__Maneuver/" target="_blank" className="button">
                           <span className="text">View Project</span>
@@ -185,46 +146,7 @@ const RecentWorksDefault = () => {
                         <div className="blog-detail">Design</div>
                         <div className="blog-content">
                           <img src="images/works/work2.jpg" alt="" />
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="https://store.steampowered.com/app/2193630/The_Final_Bastion/?beta=0" target="_blank" className="button">
                           <span className="text">View Project</span>
@@ -268,46 +190,7 @@ const RecentWorksDefault = () => {
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/oPyx4JRCQ88?si=9iUf4lgHEzyr9XDY" title="SNL Clip" frameBorder="0" allowFullScreen></iframe>
                           </div>
                         </div>
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="https://geogianni.itch.io/lights-last-hope" target="_blank" className="button">
                           <span className="text">View Project</span>
@@ -351,46 +234,7 @@ const RecentWorksDefault = () => {
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/oPyx4JRCQ88?si=9iUf4lgHEzyr9XDY" title="SNL Clip" frameBorder="0" allowFullScreen></iframe>
                           </div>
                         </div>
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="https://www.youtube.com/watch?v=oPyx4JRCQ88" target="_blank" className="button">
                           <span className="text">View Project</span>
@@ -434,46 +278,7 @@ const RecentWorksDefault = () => {
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/66JUuQMb_TM?si=aQIEB0vrh-hHGphZ" title="Bridge Clip" frameBorder="0" allowFullScreen></iframe>
                           </div>
                         </div>
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="https://youtu.be/66JUuQMb_TM" target="_blank" className="button">
                           <span className="text">View Project</span>
@@ -517,46 +322,7 @@ const RecentWorksDefault = () => {
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/oPyx4JRCQ88?si=9iUf4lgHEzyr9XDY" title="SNL Clip" frameBorder="0" allowFullScreen></iframe>
                           </div>
                         </div>
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="#" className="button">
                           <span className="text">View Project</span>
@@ -600,46 +366,7 @@ const RecentWorksDefault = () => {
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/oPyx4JRCQ88?si=9iUf4lgHEzyr9XDY" title="SNL Clip" frameBorder="0" allowFullScreen></iframe>
                           </div>
                         </div>
-                          <p>
-                            So striking at of to welcomed resolved. Northward by
-                            described up household therefore attention.
-                            Excellence decisively nay man yet impression for
-                            contrasted remarkably.
-                          </p>
-                          <p>
-                            Forfeited you engrossed but gay sometimes explained.
-                            Another as studied it to evident. Merry sense given
-                            he be arise. Conduct at an replied removal an
-                            amongst. Remaining determine few her two cordially
-                            admitting old.
-                          </p>
-                          <blockquote>
-                            Vestibulum ante ipsum primis in faucibus orci luctus
-                            et ultrices posuere cubilia Curae; Pellentesque
-                            suscipit.
-                          </blockquote>
-                          <p>
-                            Tiled say decay spoil now walls meant house. My mr
-                            interest thoughts screened of outweigh removing.
-                            Evening society musical besides inhabit ye my. Lose
-                            hill well up will he over on. Increasing sufficient
-                            everything men him admiration unpleasing sex.
-                          </p>
-                          <ul className="list-style">
-                            <li>Greatest properly off ham exercise all.</li>
-                            <li>
-                              Unsatiable invitation its possession nor off.
-                            </li>
-                            <li>
-                              All difficulty estimating unreserved increasing
-                              the solicitude.
-                            </li>
-                          </ul>
-                          <p>
-                            Unpleasant astonished an diminution up partiality.
-                            Noisy an their of meant. Death means up civil do an
-                            offer wound of.
-                          </p>
+                          
                         </div>
                         <a href="#" className="button">
                           <span className="text">View Project</span>
