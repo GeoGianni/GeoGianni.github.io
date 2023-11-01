@@ -1,17 +1,13 @@
 {
-  "name": "ryan",
+  "name": "geo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d public",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
-  "src": "public",
-  "homepage": "https://geogianni.github.io/",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "isotope-layout": "^3.0.6",
@@ -23,7 +19,6 @@
   },
   "devDependencies": {
     "eslint": "8.22.0",
-    "eslint-config-next": "12.2.5",
-    "gh-pages": "^6.0.0"
+    "eslint-config-next": "12.2.5"
   }
 }
