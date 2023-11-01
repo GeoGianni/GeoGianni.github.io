@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build && gh-pages -d public",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d public",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "src": "public",
   "homepage": "https://geogianni.github.io/",
   "dependencies": {
     "font-awesome": "^4.7.0",
