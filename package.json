@@ -3,15 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build && gh-pages -d public",
+    "deploy": "gh-pages -d public",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build && gh-pages -d public",
-    "deploy": "gh-pages -d public",
     "lint": "next lint"
   },
-  "homepage": "https://geogianni.github.io/geogianni.github.io",
-  "src": "public",
+  "homepage": "https://geogianni.github.io/",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "isotope-layout": "^3.0.6",
