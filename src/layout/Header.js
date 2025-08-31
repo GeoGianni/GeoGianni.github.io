@@ -31,17 +31,18 @@ const Header = ({ noSideBarBtn, menus, animationText }) => {
       
       {/* menu */}
       <div className="top-menu menu-minimal">
-        <ul>
-          {headerMenus_.map((menu, i) => (
-            <li className={`${nav === menu.link ? "active" : ""}`} key={i}>
-              <a href={`#${menu.link}`} onClick={() => changeNav(menu.link)}>
-                <span className={menu.icon} />
-                <span className="link">{menu.title}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
+      <ul>
+        {headerMenus_.map((menu, i) => (
+          <li className={nav === menu.link ? "active" : ""} key={i}>
+            <a href={`#${menu.link}`} onClick={() => changeNav(menu.link)}>
+              <i className={menu.icon} aria-hidden="true" />
+              <span className="menu-label">{menu.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
     </header>
   );
 };

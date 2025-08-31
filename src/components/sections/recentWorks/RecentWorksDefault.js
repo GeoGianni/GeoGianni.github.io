@@ -84,7 +84,49 @@ const RecentWorksDefault = () => {
         
         {/* content */}
         
-        <div className="row grid-items border-line-v">
+        <div className="row grid-items border-line-v"> {/* Fire & Maneuver */}
+
+          {/* BeraTone */}
+          <div className="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
+            <div className="box-item">
+              <div className="image">
+                <a href="#popup-2" className="has-popup-media">
+                  <img src="images/works/thumbs/BeraTone.png" alt="" />
+                  <span className="info">
+                    <span className="ion ion-eye" />
+                  </span>
+                </a>
+                <div id="popup-2" className="popup-box mfp-fade mfp-hide">
+                  <div className="content">
+                    <div className="image">
+                      <img src="images/works/thumbs/BeraTone.png" alt="" />
+                    </div>
+                    <div className="desc">
+                      <div className="post-box">
+                        <h1>BeraTone</h1>
+                        <div className="blog-detail">Design</div>
+                        <div className="blog-content">
+                          <img src="images/works/work_beratone0.jpg" alt="" />
+                          
+                        </div>
+                        <a href="https://www.beratone.game/en-US" target="_blank" className="button">
+                          <span className="text">View Project</span>
+                          <span className="arrow" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="desc">
+                <a href="#popup-2" className="name has-popup-media">
+                  BeraTone
+                </a>
+                <div className="category">Game</div>
+              </div>
+            </div>
+          </div>
+
           {/* Fire & Maneuver */}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
             <div className="box-item">
@@ -125,46 +167,7 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
-          {/* The Final Bastion*/}
-          <div className="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
-            <div className="box-item">
-              <div className="image">
-                <a href="#popup-2" className="has-popup-media">
-                  <img src="images/works/thumbs/TheFinalBastion.png" alt="" />
-                  <span className="info">
-                  <span className="ion ion-eye" />
-                  </span>
-                </a>
-                <div id="popup-2" className="popup-box mfp-fade mfp-hide">
-                  <div className="content">
-                    <div className="image">
-                      <img src="images/works/thumbs/TheFinalBastion.png" alt="" />
-                    </div>
-                    <div className="desc">
-                      <div className="post-box">
-                        <h1>The Final Bastion</h1>
-                        <div className="blog-detail">Design</div>
-                        <div className="blog-content">
-                          <img src="images/works/work2.jpg" alt="" />
-                          
-                        </div>
-                        <a href="https://store.steampowered.com/app/2193630/The_Final_Bastion/?beta=0" target="_blank" className="button">
-                          <span className="text">View Project</span>
-                          <span className="arrow" />
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="desc">
-                <a href="#popup-2" className="name has-popup-media">
-                  The Final Bastion
-                </a>
-                <div className="category">Game</div>
-              </div>
-            </div>
-          </div>
+
           {/* Light's Last Hope*/}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
             <div className="box-item">
@@ -209,6 +212,48 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
+
+          {/* The Final Bastion*/}
+          <div className="col col-d-6 col-t-6 col-m-12 grid-item game border-line-h">
+            <div className="box-item">
+              <div className="image">
+                <a href="#popup-2" className="has-popup-media">
+                  <img src="images/works/thumbs/TheFinalBastion.png" alt="" />
+                  <span className="info">
+                  <span className="ion ion-eye" />
+                  </span>
+                </a>
+                <div id="popup-2" className="popup-box mfp-fade mfp-hide">
+                  <div className="content">
+                    <div className="image">
+                      <img src="images/works/thumbs/TheFinalBastion.png" alt="" />
+                    </div>
+                    <div className="desc">
+                      <div className="post-box">
+                        <h1>The Final Bastion</h1>
+                        <div className="blog-detail">Design</div>
+                        <div className="blog-content">
+                          <img src="images/works/work2.jpg" alt="" />
+                          
+                        </div>
+                        <a href="https://store.steampowered.com/app/2193630/The_Final_Bastion/?beta=0" target="_blank" className="button">
+                          <span className="text">View Project</span>
+                          <span className="arrow" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="desc">
+                <a href="#popup-2" className="name has-popup-media">
+                  The Final Bastion
+                </a>
+                <div className="category">Game</div>
+              </div>
+            </div>
+          </div>
+
           {/* Saturday Night Live*/}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
             <div className="box-item">
@@ -253,6 +298,7 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
+
           {/* Bridge Render*/}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
             <div className="box-item">
@@ -297,6 +343,7 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
+
           {/* Florida Coral Reef Simulation*/}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item simulation border-line-h">
             <div className="box-item">
@@ -341,6 +388,7 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
+
           {/* The River of Grass Everglades Simulation*/}
           <div className="col col-d-6 col-t-6 col-m-12 grid-item simulation border-line-h">
             <div className="box-item">
@@ -385,6 +433,7 @@ const RecentWorksDefault = () => {
               </div>
             </div>
           </div>
+
           <div className="clear" />
         </div>
       </div>
