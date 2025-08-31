@@ -59,6 +59,44 @@ html {
   background-clip: padding-box;
 }
 
+/* mobile nav + spacing guard */
+:root { --nav-mobile-h: 72px; }     /* tune to your tab height */
+
+@media (max-width: 768px) {
+  /* make the tab bar a proper top row */
+  .top-menu.menu-minimal{
+    position: sticky;      /* stays at the top as you scroll */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    width: 100%;
+    border-radius: 0;
+    padding: 8px 12px;
+    background: rgba(16,16,16,.85);
+    backdrop-filter: blur(6px);
+    height: var(--nav-mobile-h);
+    display: flex;
+    align-items: center;
+  }
+  .top-menu.menu-minimal ul{
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    gap: 8px;
+  }
+
+  /* push the hero card (profile) down so it doesn't sit under the tabs */
+  .profile{
+    margin-top: calc(var(--nav-mobile-h) + 10px);
+  }
+
+  /* if your image has its own top margin/pull, neutralize it a bit */
+  .profile .slide{
+    margin-top: 0;
+  }
+}
+
 
 
 .top-menu .icon{ flex: 0 0 22px; display: inline-flex; justify-content: center; }
