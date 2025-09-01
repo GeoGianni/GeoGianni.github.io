@@ -106,13 +106,6 @@ const IndexDark = () => {
           <RecentWorks />
           <Quote />
         </Work>
-        <Blog>
-          <BlogSection />
-        </Blog>
-        <Contact>
-          <ContactInfo />
-          <ContactForm />
-        </Contact>
       </ContentContainer>
     </Layout>
   );
