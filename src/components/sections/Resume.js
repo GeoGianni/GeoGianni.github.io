@@ -33,23 +33,16 @@ const ResumeSection = () => {
               </div>
           <div className="resume-item border-line-h old">
                 <div className="date">2022 - 2023</div>
-                <div className="name">Lead Developer</div>
+                <div className="name">Solo Developer</div>
                 <div><b><i>The Final Bastion</i></b></div>
                 <div className="company">GeoGianni Games</div>
                 <ul>
-                  <li>Game AI</li>
-                  <li>Game Databases</li>
-                  <li>Level Design & Creation</li>
-                  <li>Photon Network & Steam Integration</li>
-                  <li>PvP & PvE Gamemodes</li>
-                  <li>Achievements</li>
-                  <li>Time of Day System</li>
-                  <li>In-game Currency & Progression</li>
-                  <li>Tower Design</li>
-                  <li>Game Balancing</li>
-                  <li>Team Management</li>
-                  <li>Financial Management</li>
-                  <li>Beta & Early Access Release</li>
+                  <li>Developed a real-time multiplayer game using Photon's PUN & Steam integrations</li>
+                  <li>Used A* to create real-time Tower Defense Pathfinding for enemies</li>
+                  <li>Managed player progression and in-game currency through real-time database using Firebase for Unity3D</li>
+                  <li>Created prefab levels in Unity each with multiple settings including time of day and difficulty</li>
+                  <li>Created and balanced a roster of 25+ towers & 50+ minions across PvP and PvE gamemodes</li>
+                  <li>Managed a small game project on a minimal budget from beta to an early access release</li>
                 </ul>
               </div>
               <div className="resume-item border-line-h old">
@@ -58,10 +51,8 @@ const ResumeSection = () => {
                 <div className="company">PlateChasr</div>
                 <ul>
                   <li>Developed and Operated an application backend software and database using JAVA, JSON and Firebase</li>
-                  <li>Launched and Maintained Apple IOS release</li>
-                  <li>Aligned Administrative & Corporate decisions with technical needs</li>
-                  <li>Directed communication between Administration and technical staff</li>
-                  <li>Oversaw application crowd testing</li>
+                  <li>Launched and Maintained Apple IOS release & Oversaw application crowd testing</li>
+                  <li>Aligned Administrative & Corporate decisions with technical needs through direct communication</li>
                 </ul>
               </div>
             </div>
@@ -76,14 +67,9 @@ const ResumeSection = () => {
                 <div><b><i>Unreleased Title</i></b></div>
                 <div className="company">Freelance Client</div>
                 <ul>
-                  <li>Assist in project design & direction</li>
-                  <li>Game Databases</li>
-                  <li>Weapon System</li>
-                  <li>Game AI</li>
-                  <li>Building System</li>
-                  <li>Dynamic World Grid</li>
-                  <li>Procedural World Generation</li>
-                  <li>Faction System</li>
+                    <li>reated detailed development timeline from conception, including crowd funding, social media outreach, and potential partnerships</li>
+                    <li>Designed and Implemented Core Gameplay Systems including Enemy AI, Weapon System, Base Building System</li>
+                    <li>Created A Living Dynamic simulation including Procedural Generation, A Dynamic Faction System, and multiple simulation grids</li>
                 </ul>
               </div>
             <div className="resume-item border-line-h old">
@@ -92,18 +78,12 @@ const ResumeSection = () => {
                 <div><b><i>Fire & Maneuver</i></b></div>
                 <div className="company">Armchair Historian Interactive</div>
                 <ul>
-                  <li>Game Battle AI</li>
-                  <li>Unit, Perk, Weapon & Nation Database</li>
-                  <li>Game Level Creator</li>
-                  <li>Water & other Environmental Shaders</li>
-                  <li>Time, Season & Weather System</li>
-                  <li>Progression System</li>
-                  <li>Tutorial, Scenario & Task System</li>
-                  <li>Objective Capture Gamemode</li>
-                  <li>Environmental Tiles and Effects</li>
-                  <li>Cover and Destructible Building System</li>
-                  <li>Unit Battle UI Mechanics & Interactions</li>
-                  <li>Game Victory Conditions & Effects</li>
+                  <li>Created and operated database containing 7 unlock-able nations, player progression and seasonal rankings</li>
+                  <li>Designed and implemented core turn-based multiplayer gameplay systems including player unit and AI battle mechanics, multiple victory conditions, and perk system</li>
+                  <li>Lead concept and development for the Cover and Destructible Building System and Environmental Tiles and Effects</li>
+                  <li>Implemented Game Art in the form of levels, water, season, and dynamic time shaders and other Effects</li>
+                  <li>Wrote and Implemented extensive Tutorials, History based Scenarios & an in-mission Task System</li>
+                  <li>Created and maintained a game level and logic creator that created all 25+ maps and 10+ scenarios</li>
                 </ul>
               </div>
               <div className="resume-item border-line-h old">
