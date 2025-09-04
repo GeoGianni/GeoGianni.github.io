@@ -19,7 +19,7 @@ const ResumeSection = () => {
                 <div className="date">2023 - 2025</div>
                 <div className="name">Senior Developer</div>
                 <div><b><i>BeraTone</i></b></div>
-                <div className="company">BeraTone</div>
+                <div className="company">BeraTone Technologies</div>
                 <ul>
                   <li>Built core multiplayer infrastructure using Photon’s Quantum 3 deterministic engine (ECS architecture).</li>
                   <li>Coordinated with Art, Sound, Animation, and Level Design teams; supported leadership on gameplay and MMORPG systems.</li>
